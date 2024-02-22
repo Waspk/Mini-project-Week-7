@@ -1,0 +1,15 @@
+/Volumes/Mac 2/Weekly projects/WEEK 7./Mini project Week 7/Mini project Week 7/bin/Debug/net7.0/Mini project Week 7
+/Volumes/Mac 2/Weekly projects/WEEK 7./Mini project Week 7/Mini project Week 7/bin/Debug/net7.0/Mini project Week 7.deps.json
+/Volumes/Mac 2/Weekly projects/WEEK 7./Mini project Week 7/Mini project Week 7/bin/Debug/net7.0/Mini project Week 7.runtimeconfig.json
+/Volumes/Mac 2/Weekly projects/WEEK 7./Mini project Week 7/Mini project Week 7/bin/Debug/net7.0/Mini project Week 7.dll
+/Volumes/Mac 2/Weekly projects/WEEK 7./Mini project Week 7/Mini project Week 7/bin/Debug/net7.0/Mini project Week 7.pdb
+/Volumes/Mac 2/Weekly projects/WEEK 7./Mini project Week 7/Mini project Week 7/obj/Debug/net7.0/Mini project Week 7.csproj.AssemblyReference.cache
+/Volumes/Mac 2/Weekly projects/WEEK 7./Mini project Week 7/Mini project Week 7/obj/Debug/net7.0/Mini project Week 7.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac 2/Weekly projects/WEEK 7./Mini project Week 7/Mini project Week 7/obj/Debug/net7.0/Mini project Week 7.AssemblyInfoInputs.cache
+/Volumes/Mac 2/Weekly projects/WEEK 7./Mini project Week 7/Mini project Week 7/obj/Debug/net7.0/Mini project Week 7.AssemblyInfo.cs
+/Volumes/Mac 2/Weekly projects/WEEK 7./Mini project Week 7/Mini project Week 7/obj/Debug/net7.0/Mini project Week 7.csproj.CoreCompileInputs.cache
+/Volumes/Mac 2/Weekly projects/WEEK 7./Mini project Week 7/Mini project Week 7/obj/Debug/net7.0/Mini project Week 7.dll
+/Volumes/Mac 2/Weekly projects/WEEK 7./Mini project Week 7/Mini project Week 7/obj/Debug/net7.0/refint/Mini project Week 7.dll
+/Volumes/Mac 2/Weekly projects/WEEK 7./Mini project Week 7/Mini project Week 7/obj/Debug/net7.0/Mini project Week 7.pdb
+/Volumes/Mac 2/Weekly projects/WEEK 7./Mini project Week 7/Mini project Week 7/obj/Debug/net7.0/Mini project Week 7.genruntimeconfig.cache
+/Volumes/Mac 2/Weekly projects/WEEK 7./Mini project Week 7/Mini project Week 7/obj/Debug/net7.0/ref/Mini project Week 7.dll
